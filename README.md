@@ -2,9 +2,9 @@
 
 ### I'm a Web Developer who enjoys solving problems and learning new things.
 
-- Recently completed website for property owner to list vacancies, schedule showings, and accept applications.
-- Graduated from nucamp's full-stack program in May, building e-commerce storefront as my capstone project.
-- Currently learning Laravel to extend knowledge of MVC frameworks and create RESTful APIs for React applications to consume.
+- Recently, I completed a website for a property owner to list vacancies, schedule showings, and accept applications.
+- In May, I graduated from nucamp's full-stack program and built an e-commerce storefront as my capstone project.
+- Currently, I'm learning Laravel to extend my knowledge of MVC frameworks and create RESTful APIs for React applications to consume.
 - Outside of coding, I enjoy cooking, trivia games, and playing with my dog.
 
 ### Connect with me:
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-## Projects:
+### Projects:
 
 ### [Résumé Builder]
 - Transforms user collected data into aesthetically pleasing output.
