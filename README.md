@@ -8,12 +8,9 @@
 - Outside of coding, I enjoy cooking, trivia games, and playing with my dog.
 
 ### Connect with me:
-[<img align="left" alt="portfolio" title="portfolio" width="63" src="https://www.projectsbyscott.com/img/icons/github/portfolio.png" />][Portfolio]
-[<img align="left" alt="LinkedIn" title="LinkedIn" width="63" src="https://www.projectsbyscott.com/img/icons/github/linkedin.png" />][LinkedIn]
-[<img align="left" alt="email" title="email" width="63" src="https://www.projectsbyscott.com/img/icons/github/email.png" />][Email]
-
-<br />
-<br />
+[<img alt="portfolio" title="portfolio" width="63" src="https://www.projectsbyscott.com/img/icons/github/portfolio.png" />][Portfolio]
+[<img alt="LinkedIn" title="LinkedIn" width="63" src="https://www.projectsbyscott.com/img/icons/github/linkedin.png" />][LinkedIn]
+[<img alt="email" title="email" width="63" src="https://www.projectsbyscott.com/img/icons/github/email.png" />][Email]
 
 ### Projects:
 
@@ -52,9 +49,6 @@
 <img align="left" alt="PHP" title="PHP" width="63" src="https://www.projectsbyscott.com/img/icons/github/php.png" />
 <img align="left" alt="Laravel" title="Laravel" width="63" src="https://www.projectsbyscott.com/img/icons/github/laravel.png" />
 <img align="left" alt="MySQL" title="MySQL" width="63" src="https://www.projectsbyscott.com/img/icons/github/mysql.png" />
-
-<br />
-<br />
 
 [Portfolio]: https://www.projectsbyscott.com
 [LinkedIn]: https://www.linkedin.com/in/scosut/
