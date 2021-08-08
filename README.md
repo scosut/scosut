@@ -49,6 +49,7 @@
 <img align="left" alt="PHP" title="PHP" width="63" src="https://www.projectsbyscott.com/img/icons/github/php.png" />
 <img align="left" alt="Laravel" title="Laravel" width="63" src="https://www.projectsbyscott.com/img/icons/github/laravel.png" />
 <img align="left" alt="MySQL" title="MySQL" width="63" src="https://www.projectsbyscott.com/img/icons/github/mysql.png" />
+<img align="left" alt="WordPress" title="WordPress" width="63" src="https://www.projectsbyscott.com/img/icons/github/wordpress.png" />
 
 [Portfolio]: https://www.projectsbyscott.com
 [LinkedIn]: https://www.linkedin.com/in/scosut/
