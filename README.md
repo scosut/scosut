@@ -27,11 +27,11 @@
 
 ### [Website – Landlord]
 - Manages rental properties belonging to a landlord.
-- **Applied Technologies:** Bootstrap, jQuery, PHP, MVC, MySQL, SMTP, FPDM, PHPExcel.
+- **Applied Technologies:** Bootstrap, jQuery, PHP, MVC, MySQL, SMTP, FPDM, PHPExcel
 
 ### [Crypto Dashboard]
 - Integrates with the CoinGecko API to retrieve cryptocurrency data.
-- **Applied Technologies:** React, Router, Chart.js, CoinGecko API.
+- **Applied Technologies:** React, Router, Chart.js.
 
 ## Languages and Tools:
 <img align="left" alt="Bootstrap" title="Bootstrap" width="40" src="https://scosut.github.io/dev-portfolio/icons/github/bootstrap.png" />
@@ -61,4 +61,4 @@
 [Event Planner]: https://github.com/scosut
 [Website – Registered Agent]: https://www.californiaregisteredagents.net
 [Website – Landlord]: https://www.handhrentalproperties.com
-[Crypto Dashboard]: https://github.com/scosut
+[Crypto Dashboard]: https://scosut.github.io/crypto-dash
